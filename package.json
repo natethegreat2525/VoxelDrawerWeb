@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "express": "^4.16.4",
+    "gh-pages": "^2.0.1",
     "nodemon": "^1.18.10",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
