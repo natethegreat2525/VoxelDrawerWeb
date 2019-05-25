@@ -1,11 +1,11 @@
 {
-  "main.js": "/VoxelDrawerWeb/static/js/main.981094b1.chunk.js",
-  "main.js.map": "/VoxelDrawerWeb/static/js/main.981094b1.chunk.js.map",
-  "runtime~main.js": "/VoxelDrawerWeb/static/js/runtime~main.43720eab.js",
-  "runtime~main.js.map": "/VoxelDrawerWeb/static/js/runtime~main.43720eab.js.map",
-  "static/js/2.53cf0e65.chunk.js": "/VoxelDrawerWeb/static/js/2.53cf0e65.chunk.js",
-  "static/js/2.53cf0e65.chunk.js.map": "/VoxelDrawerWeb/static/js/2.53cf0e65.chunk.js.map",
-  "index.html": "/VoxelDrawerWeb/index.html",
-  "precache-manifest.ac5cddbdc6951599c2b17f425fb5e978.js": "/VoxelDrawerWeb/precache-manifest.ac5cddbdc6951599c2b17f425fb5e978.js",
-  "service-worker.js": "/VoxelDrawerWeb/service-worker.js"
+  "main.js": "/VoxelDrawerWeb/build/static/js/main.981094b1.chunk.js",
+  "main.js.map": "/VoxelDrawerWeb/build/static/js/main.981094b1.chunk.js.map",
+  "runtime~main.js": "/VoxelDrawerWeb/build/static/js/runtime~main.88be0939.js",
+  "runtime~main.js.map": "/VoxelDrawerWeb/build/static/js/runtime~main.88be0939.js.map",
+  "static/js/2.53cf0e65.chunk.js": "/VoxelDrawerWeb/build/static/js/2.53cf0e65.chunk.js",
+  "static/js/2.53cf0e65.chunk.js.map": "/VoxelDrawerWeb/build/static/js/2.53cf0e65.chunk.js.map",
+  "index.html": "/VoxelDrawerWeb/build/index.html",
+  "precache-manifest.4331b3b87e0b32b04c4308e78ef39ff9.js": "/VoxelDrawerWeb/build/precache-manifest.4331b3b87e0b32b04c4308e78ef39ff9.js",
+  "service-worker.js": "/VoxelDrawerWeb/build/service-worker.js"
 }
